@@ -46,5 +46,5 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>aluno</code> no curso de Ciência da Computação da <a href="https://www.newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>aluno</code> no curso de Ciência da Computação da <a href="https://www.newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_technologist:<br />
 </div>
