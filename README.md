@@ -62,6 +62,11 @@
 <p> 
 - :mortar_board: Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>, POO, C++, C#, análise de dados, qualidade e testes de software, e sistemas operacionais.<br />
 - 📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.<br />
+- :atom: Sou entusiasta da Linguagem C.<br />
+- :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/CarlosGeovanee" target="_blank">aqui</a>.<br />
+- :soccer: Sou cruzeirence, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. :fox_face:<br />
+- :video_game: Meus hobbies são <a href="https://www.meta.com/quest/?srsltid=AfmBOoqGA_49rYZ7o_y0XhgqCNgx4VRvWzcVZw1ZXYfqAMaWz-_ekNFo)" target="_blank">Meta Quest</a>, <a href="https://cbf.com.br/" target="_blank">Futebol</a> e música.<br />
+- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt2442560/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520peak%2520blinders" target="_blank">Peaky Blinders</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt10919420/?ref_=mv_close" target="_blank">Round 6</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/pt/title/tt4574334/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_stranger" target="_blank">Stranger Things</a>, <a href="https://www.imdb.com/pt/title/tt12747748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_o%2520mundo%2520depois" target="_blank">O Mundo Depois de Nós</a> e <a href="https://www.imdb.com/pt/title/tt1649418/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_agente%2520oculto" target="_blank">Agente Oculto</a>.<br />
 </p>
 </div>
 </td>
