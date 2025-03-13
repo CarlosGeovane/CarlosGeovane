@@ -67,6 +67,9 @@
 - :soccer: Sou cruzeirence, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. :fox_face:<br />
 - :video_game: Meus hobbies são <a href="https://www.meta.com/quest/?srsltid=AfmBOoqGA_49rYZ7o_y0XhgqCNgx4VRvWzcVZw1ZXYfqAMaWz-_ekNFo)" target="_blank">Meta Quest</a>, <a href="https://cbf.com.br/" target="_blank">Futebol</a> e música.<br />
 - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt2442560/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520peak%2520blinders" target="_blank">Peaky Blinders</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt10919420/?ref_=mv_close" target="_blank">Round 6</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/pt/title/tt4574334/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_stranger" target="_blank">Stranger Things</a>, <a href="https://www.imdb.com/pt/title/tt12747748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_o%2520mundo%2520depois" target="_blank">O Mundo Depois de Nós</a> e <a href="https://www.imdb.com/pt/title/tt1649418/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_0_q_agente%2520oculto" target="_blank">Agente Oculto</a>.<br />
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :mailbox: Para me encontrar, este é meu <a href="mailto:carlosgeovaneoficiall@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :iphone: Esse é meu <a href="https://wa.me/5531981087576" target="_blank">Whatsapp</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
 </td>
