@@ -268,7 +268,6 @@
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
-<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B250%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=CarlosGeovane"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/CarlosGeovane?style=social"/>
