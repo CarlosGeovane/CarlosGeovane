@@ -56,9 +56,8 @@ Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencia
 </p>
 </div>
 </td>
-<td>
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="650px"/>
+<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/developer.gif?raw=true" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
