@@ -51,7 +51,7 @@
 <img height="20" alt="GIF" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, Java, POO, análise de dados, qualidade e testes de software, e sistemas operacionais.
+Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>, POO, C++, C#, análise de dados, qualidade e testes de software, e sistemas operacionais.
 📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.
 </div>
 
