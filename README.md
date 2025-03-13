@@ -273,7 +273,7 @@
 <img alt="Followers" src="https://img.shields.io/github/followers/CarlosGeovane?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/CarlosGeovane?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/CarlosGeovane/CarlosGeovane?logo=git"/>
-<a href="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/meupix.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
