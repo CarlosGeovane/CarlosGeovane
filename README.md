@@ -60,8 +60,8 @@
 <td>
 <div align="justify">
 <p> 
-- :mortar_board: Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>, POO, C++, C#, análise de dados, qualidade e testes de software, e sistemas operacionais.
-📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.
+- :mortar_board: Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>, POO, C++, C#, análise de dados, qualidade e testes de software, e sistemas operacionais.<br />
+- 📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.<br />
 </p>
 </div>
 </td>
