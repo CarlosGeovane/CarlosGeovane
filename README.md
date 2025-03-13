@@ -51,11 +51,8 @@
 <img height="20" alt="GIF" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em Python, Java, POO, análise de dados, qualidade e testes de software, e sistemas operacionais.
-
-📌 Estou começando a explorar Git e GitHub e desenvolvendo projetos para consolidar meu aprendizado. Busco meu primeiro emprego na área de TI e estou sempre disposto a aprender e crescer profissionalmente.
-
-🚀 Objetivo: me tornar um desenvolvedor full stack ou especialista em análise de dados, contribuindo com soluções inovadoras e eficientes.
+Estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, Java, POO, análise de dados, qualidade e testes de software, e sistemas operacionais.
+📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.
 </div>
 
 -----
