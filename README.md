@@ -341,3 +341,36 @@
 </div>
 
 -----
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
+<td>
+<img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+
+-----
+
+<div>
+
+:octocat: &nbsp;GitHub Student Developer Pack:
+
+<div align="center">
+<a href="https://education.github.com/pack">
+  <img src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/GSDP.png?raw=true"/>
+</a>
+</div>
+
+</div>
+
+-----
+
