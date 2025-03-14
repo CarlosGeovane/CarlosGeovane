@@ -319,3 +319,26 @@
 ```                                        
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+<div>
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="mailto:carlosgeovaneoficiall@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+</td>
+<td>
+<a href="https://github.com/CarlosGeovane" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
