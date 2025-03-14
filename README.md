@@ -293,12 +293,12 @@
 <a href="https://discordapp.com/users/carlosgeovanee" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/5tice3m8ljt7gd5q0nmji48gy?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://us04web.zoom.us/j/3513107344?pwd=oxBAM64hsjpCTAILmOiJkPfabtBLM2.1" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
+<a href="https://meet.google.com/pni-eisa-ksw" target="_blank"><img alt="Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
 <a href="https://www.instagram.com/carlos_geovanee/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/" target="_blank"><img alt="PSN" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/carlos_geovanee/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://www.twitch.tv/carlos_geovanee" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/carlosgeovaneof1" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/dcKhOAFaJ5cz" target="_blank"><img alt="skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
 <br />
 <a href="https://gitlab.com/CarlosGeovane" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/CarlosGeovane" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
