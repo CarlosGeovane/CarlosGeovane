@@ -43,7 +43,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://domhelder.edu.br/" target="_blank">Centro Universitario Dom Helder</a>.</i> :man_technologist:<br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://domhelder.edu.br/" target="_blank">Centro Universitário Dom Helder</a>.</i> :man_technologist:<br />
 </div>
 
 -----
