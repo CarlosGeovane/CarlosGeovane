@@ -43,7 +43,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://domhelder.edu.br/" target="_blank">Centro Universitário Dom Helder</a>.</i> :man_technologist:<br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 22 anos, moro em BH e sou engenheiro de software. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://domhelder.edu.br/" target="_blank">Centro Universitário Dom Helder</a>.</i> :man_technologist:<br />
 </div>
 
 -----
@@ -62,8 +62,7 @@
 <p> 
 - :mortar_board: Desenvolvedor Full Stack e estudante do curso de <a href="https://newtonpaiva.br/cursos/graduacao-presencial/ciencia-da-computacao/" target="_blank">Ciência da Computação</a>, apaixonado por tecnologia e desenvolvimento de software.  Atualmente, estou aprimorando meus conhecimentos em <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>, C++, C#, análise de dados, qualidade e testes de software, e sistemas operacionais.<br />
 - 📌 Estou começando a explorar <code>Git</code> e <code>GitHub</code> e desenvolvendo projetos para consolidar meu aprendizado.<br />
-- :atom: Sou entusiasta da Linguagem Python.<br />
-- 🔥 Noções básicas de HTML e CSS.<br />
+- 🔥HTML e CSS.<br />
 - :telescope: Arquitetura de Computadores, Análise de Sistemas, Banco de Dados (MySQL).<br />
 - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/CarlosGeovanee" target="_blank">aqui</a>.<br />
 - :soccer: Sou cruzeirence, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. :fox_face:<br />
