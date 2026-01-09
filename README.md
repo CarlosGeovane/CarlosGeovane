@@ -190,7 +190,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Carlos Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/spotify.gif?raw=true"/> Carlos Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=5tice3m8ljt7gd5q0nmji48gy" alt="Data Card for Spotify">
 </details>
 </div>
