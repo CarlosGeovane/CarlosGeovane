@@ -27,7 +27,7 @@
 <td><a href="https://www.linkedin.com/in/carlosgeovanebelan/" target="_blank"><img src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/carlosgeovanee" target="_blank"><img src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
