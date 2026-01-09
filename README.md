@@ -76,7 +76,7 @@
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="650px"/>
+<img alt="GIF" src="https://github.com/CarlosGeovane/CarlosGeovane/blob/main/img/dev.gif?raw=true" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
